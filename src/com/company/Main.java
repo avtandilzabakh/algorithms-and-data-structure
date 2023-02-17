@@ -13,7 +13,7 @@ public class Main {
         TernarySearch ternarySearch = new TernarySearch();
         int[] ints = new int[]{1,3,4,5,7,8};
         System.out.println(ternarySearch.search(ints,4));
-
+//second brunch
     }
 
 }
